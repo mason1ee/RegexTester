@@ -13,13 +13,13 @@ import javax.swing.JTextField;
 
 /**
  * Program deployed dated 14th August 2019
- * © 2019 Mason Lee All Rights Reserved
+ * Â© 2019 Mason Lee All Rights Reserved
  * Images used subjected to Owner's Copyright
- * 18034543, Aug 14, 2019 19:01:23 PM
+ * Aug 14, 2019 19:01:23 PM
  */
 
 /**
- * @author 18034543
+ * @author Mason Lee
  *
  */
 public class RegexT {
@@ -61,7 +61,7 @@ public class RegexT {
 		labelRegexE.setText("Enter Regex:");
 		labelTestS.setText("Enter test string:");
 		credits.setForeground(Color.BLACK);
-		credits.setText("© 2019 Mason Lee All Rights Reserved");
+		credits.setText("Â© 2019 Mason Lee All Rights Reserved");
 		buttonT.setText("Test");
 		buttonC.setText("Clear");
 		
